@@ -187,3 +187,6 @@ Route::get('remove/wishlist/{id}', 'WishlistController@removewishlist')->name('r
 Route::get('/about-us', 'SocialController@about')->name('about');
 Route::get('/our-team', 'SocialController@team')->name('team');
 Route::get('/our-policy', 'SocialController@policy')->name('policy');
+
+
+//heroku///Nothingtodefficult#1971
